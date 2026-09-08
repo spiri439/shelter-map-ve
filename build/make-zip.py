@@ -13,6 +13,19 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SLUG = 'shelter-map-ve'
 DIST = os.path.join(ROOT, 'dist', '%s.zip' % SLUG)
 
+# Exactly what belongs at the plugin root. Anything else is a mistake: a stray
+# Plugin Check export once rode along into a release this way, and Plugin Check
+# then flagged its own report as an unexpected file in the plugin.
+ALLOWED_ROOT_FILES = {
+    'shelter-map.php',
+    'shelter-map.js',
+    'shelter-map.css',
+    'readme.txt',
+    'LICENSE',
+    'pin-shelter.png',
+}
+ALLOWED_ROOT_DIRS = {'languages', 'vendor', 'data'}
+
 
 def excluded():
     path = os.path.join(ROOT, '.distignore')
@@ -24,6 +37,23 @@ def excluded():
                 if line and not line.startswith('#'):
                     names.add(line)
     return names
+
+
+def verify(collected):
+    """Refuse to package anything unexpected at the plugin root."""
+    problems = []
+    for rel in collected:
+        parts = rel.replace(os.sep, '/').split('/')
+        if len(parts) == 1:
+            if parts[0] not in ALLOWED_ROOT_FILES:
+                problems.append('unexpected file at plugin root: %s' % parts[0])
+        elif parts[0] not in ALLOWED_ROOT_DIRS:
+            problems.append('unexpected directory at plugin root: %s/' % parts[0])
+    missing = ALLOWED_ROOT_FILES - set(collected)
+    problems += ['missing from plugin root: %s' % name for name in sorted(missing)]
+    if problems:
+        raise SystemExit('Refusing to package.\n  ' + '\n  '.join(sorted(set(problems)))
+                         + '\nAdd it to .distignore, or move it out of the plugin root.')
 
 
 def main():
@@ -43,6 +73,8 @@ def main():
             if rel.replace(os.sep, '/').split('/')[0] in skip or rel in skip:
                 continue
             collected.append(rel)
+
+    verify(collected)
 
     with zipfile.ZipFile(DIST, 'w', zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
         for rel in collected:

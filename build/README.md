@@ -14,6 +14,10 @@ php     tests/render-test.php   # 27 assertions against the rendered shortcode
 python3 build/make-zip.py       # dist/shelter-map-ve.zip
 ```
 
+`make-zip.py` refuses to run if anything unexpected sits in the plugin root, so a
+stray Plugin Check export cannot ride along into a release again. Put such files in
+`reports/`, which is ignored by both git and `.distignore`.
+
 ## Images
 
 `pin-shelter.png` is the author's own drawing and is **not** generated — it is committed
