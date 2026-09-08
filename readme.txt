@@ -1,4 +1,4 @@
-=== Vlad Enterprises Shelter Map ===
+=== Shelter Map VE ===
 Contributors: nextdoorentertainment
 Tags: map, leaflet, openstreetmap, civil protection, shelters
 Requires at least: 5.8
@@ -12,7 +12,7 @@ Romania's 4,538 civil protection shelters on a clustered Leaflet map. County fil
 
 == Description ==
 
-Vlad Enterprises Shelter Map renders the 4,538 civil protection shelters of Romania on a clustered Leaflet map. It needs no map API key, no billing account and no third-party map service beyond OpenStreetMap tiles.
+Shelter Map VE renders the 4,538 civil protection shelters of Romania on a clustered Leaflet map. It needs no map API key, no billing account and no third-party map service beyond OpenStreetMap tiles.
 
 The shelter list ships with the plugin as static JSON, so no database tables and no queries are involved. Every shelter carries a name, an address and coordinates; the county is precomputed for each one, and Bucharest shelters also carry their sector.
 

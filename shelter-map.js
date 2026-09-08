@@ -1,5 +1,5 @@
 /**
- * Vlad Enterprises Shelter Map
+ * Shelter Map VE
  *
  * Leaflet, its stylesheets and the shelter data are fetched only once the map
  * nears the viewport. The map usually sits below the fold, so it has no

@@ -6,6 +6,8 @@ CLAUDE.md
 README.md
 .wordpress-org
 build
+# Plugin Check exports, kept for reference
+reports
 source-data
 tests
 dist

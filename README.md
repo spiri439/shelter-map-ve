@@ -1,4 +1,4 @@
-# Shelter Map
+# Shelter Map VE
 
 A WordPress plugin that puts the **4,538 civil protection shelters of Romania** on a
 clustered Leaflet map — with county and sector filtering, diacritic-insensitive search and

@@ -17,7 +17,7 @@ DEST = os.path.join(ROOT, 'languages')
 DOMAIN = 'shelter-map-ve'
 
 HEADER = (
-    'Project-Id-Version: Vlad Enterprises Shelter Map 1.0.0\n'
+    'Project-Id-Version: Shelter Map VE 1.0.0\n'
     'Report-Msgid-Bugs-To: https://github.com/spiri439/shelter-map-ve/issues\n'
     'Last-Translator: nextdoorentertainment\n'
     'Language-Team: Romanian\n'
