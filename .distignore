@@ -1,6 +1,9 @@
 # Excluded from dist/shelter-map-ve.zip
 .distignore
 CLAUDE.md
+# GitHub-facing; the plugin's own readme is readme.txt, and this one links to
+# screenshots that live outside the package.
+README.md
 .wordpress-org
 build
 source-data
