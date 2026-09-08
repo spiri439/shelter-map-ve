@@ -1,0 +1,1478 @@
+[
+ {
+  "idx": 0,
+  "bloc": "Argeș",
+  "id": 13616,
+  "lat": 46.084486,
+  "lng": 23.582668,
+  "title": "Bloc ANL – str. Arieşului, nr. 235, bl. E 1, Alba Iulia",
+  "judet": "Alba"
+ },
+ {
+  "idx": 1,
+  "bloc": "Argeș",
+  "id": 13617,
+  "lat": 46.071409,
+  "lng": 23.557064,
+  "title": "Spitalul Judeţean de Urgenţă Alba – B-dul. Revoluţiei, nr. 2, Alba Iulia",
+  "judet": "Alba"
+ },
+ {
+  "idx": 2,
+  "bloc": "Argeș",
+  "id": 13618,
+  "lat": 46.094252,
+  "lng": 23.60077,
+  "title": "S.C. SEWS-R SRL Romania – Str. Alexandru Ioan Cuza, nr. 28b, Alba Iulia",
+  "judet": "Alba"
+ },
+ {
+  "idx": 3,
+  "bloc": "Argeș",
+  "id": 13619,
+  "lat": 46.10831,
+  "lng": 23.584033,
+  "title": "S.C. SATURN S.A. – str. Cabanei, nr. 57, Alba Iulia",
+  "judet": "Alba"
+ },
+ {
+  "idx": 4,
+  "bloc": "Argeș",
+  "id": 13620,
+  "lat": 46.075027,
+  "lng": 23.580172,
+  "title": "Sucursala CEC Alba – Bd. Vladimirescu Tudor, nr. 20, Alba Iulia",
+  "judet": "Alba"
+ },
+ {
+  "idx": 5,
+  "bloc": "Argeș",
+  "id": 13621,
+  "lat": 46.077662,
+  "lng": 23.565842,
+  "title": "Direcţia pentru Agricultură Judeţeană Alba – str. Calea Moţilor nr. 112, Alba Iulia",
+  "judet": "Alba"
+ },
+ {
+  "idx": 6,
+  "bloc": "Argeș",
+  "id": 13622,
+  "lat": 46.063687,
+  "lng": 23.563915,
+  "title": "Direcția Sanitar Veterinară Alba, - str. Lalelelor, nr. 7A, Alba Iulia",
+  "judet": "Alba"
+ },
+ {
+  "idx": 7,
+  "bloc": "Argeș",
+  "id": 13623,
+  "lat": 46.171641,
+  "lng": 23.934022,
+  "title": "S.C. Bosch Rexroth Blaj – Blaj, str. A. Vlaicu, nr. 2, Blaj",
+  "judet": "Alba"
+ },
+ {
+  "idx": 8,
+  "bloc": "Argeș",
+  "id": 13624,
+  "lat": 45.956979,
+  "lng": 23.575226,
+  "title": "Bloc locuinţe – Sebeş, str. Lucian Blaga, nr. 53, Sebeș",
+  "judet": "Alba"
+ },
+ {
+  "idx": 9,
+  "bloc": "Argeș",
+  "id": 13625,
+  "lat": 45.971416,
+  "lng": 23.548896,
+  "title": "S.C. Kronospan S.A. Sebeş – str. M. Kogălniceanu, nr. 59, Sebeș",
+  "judet": "Alba"
+ },
+ {
+  "idx": 10,
+  "bloc": "Argeș",
+  "id": 13626,
+  "lat": 46.364106,
+  "lng": 23.049565,
+  "title": "Judecătoria Cîmpeni – str. Horea, nr. 12, Cîmpeni",
+  "judet": "Alba"
+ },
+ {
+  "idx": 11,
+  "bloc": "Argeș",
+  "id": 13627,
+  "lat": 46.161225,
+  "lng": 23.647809,
+  "title": "S.C. Albalact S.A. Alba – D.N. 1, km. 392+600, Oiejdea",
+  "judet": "Alba"
+ },
+ {
+  "idx": 12,
+  "bloc": "Argeș",
+  "id": 13628,
+  "lat": 46.398619,
+  "lng": 23.419434,
+  "title": "Sediul Primărie Sălciua – str. Principală, nr. 62, Sălciua",
+  "judet": "Alba"
+ },
+ {
+  "idx": 13,
+  "bloc": "Argeș",
+  "id": 13629,
+  "lat": 46.133885,
+  "lng": 23.636197,
+  "title": "S.C. Transavia S.A. – Sediu administrativ, str. Blajului, nr. 244D, Sîntimbru",
+  "judet": "Alba"
+ },
+ {
+  "idx": 14,
+  "bloc": "Argeș",
+  "id": 13630,
+  "lat": 46.124107,
+  "lng": 24.036588,
+  "title": "Sediul Primăriei Valea Lungă – str. Victoriei, nr. 328B, Valea Lungă",
+  "judet": "Alba"
+ },
+ {
+  "idx": 417,
+  "bloc": "Bacău",
+  "id": 14033,
+  "lat": 46.673361,
+  "lng": 26.147354,
+  "title": "Sediul primăriei, Odobești, sat Odobești",
+  "judet": "Neamț"
+ },
+ {
+  "idx": 487,
+  "bloc": "Bihor",
+  "id": 14103,
+  "lat": 46.482574,
+  "lng": 21.387962,
+  "title": "Piaţa Democraţiei ANL, bl. Z4, Salonta",
+  "judet": "Arad"
+ },
+ {
+  "idx": 489,
+  "bloc": "Bihor",
+  "id": 14105,
+  "lat": 46.3229,
+  "lng": 22.272653,
+  "title": "Strada Independenţe, nr. 19A, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 490,
+  "bloc": "Bihor",
+  "id": 14106,
+  "lat": 46.325003,
+  "lng": 22.273108,
+  "title": "Strada Avram Iancu, nr. 3, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 491,
+  "bloc": "Bihor",
+  "id": 14107,
+  "lat": 46.324981,
+  "lng": 22.272731,
+  "title": "Strada Avram Iancu, nr. 2, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 492,
+  "bloc": "Bihor",
+  "id": 14108,
+  "lat": 46.324753,
+  "lng": 22.272083,
+  "title": "Strada Avram Iancu, nr. 1, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 493,
+  "bloc": "Bihor",
+  "id": 14109,
+  "lat": 46.324581,
+  "lng": 22.271786,
+  "title": "Strada Independenţei, nr. 40, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 494,
+  "bloc": "Bihor",
+  "id": 14110,
+  "lat": 46.324969,
+  "lng": 22.271853,
+  "title": "Strada Independenţei, nr. 42, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 495,
+  "bloc": "Bihor",
+  "id": 14111,
+  "lat": 46.324375,
+  "lng": 22.270297,
+  "title": "Strada Andrei, Mureşanu bloc nr. Z 4, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 496,
+  "bloc": "Bihor",
+  "id": 14112,
+  "lat": 46.324744,
+  "lng": 22.270639,
+  "title": "Strada Andrei, Mureşanu bloc nr. Z 3, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 497,
+  "bloc": "Bihor",
+  "id": 14113,
+  "lat": 46.3243,
+  "lng": 22.270631,
+  "title": "Strada Andrei, Mureşanu bloc nr. Z 2, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 509,
+  "bloc": "Bistrița-Năsăud",
+  "id": 14125,
+  "lat": 46.322497,
+  "lng": 22.271656,
+  "title": "Aleea Miron Pompiliu, nr. 3, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 510,
+  "bloc": "Bistrița-Năsăud",
+  "id": 14126,
+  "lat": 46.322433,
+  "lng": 22.277286,
+  "title": "Aleea Miron Pompiliu, nr. 3 A, Ştei",
+  "judet": "Arad"
+ },
+ {
+  "idx": 511,
+  "bloc": "Bistrița-Năsăud",
+  "id": 14127,
+  "lat": 46.332847,
+  "lng": 22.341783,
+  "title": "Sat. Chişcău. nr. 81/C, Com. Pietroasa, sat<br />Chişcău",
+  "judet": "Arad"
+ },
+ {
+  "idx": 512,
+  "bloc": "Bistrița-Năsăud",
+  "id": 14128,
+  "lat": 47.21412,
+  "lng": 22.057124,
+  "title": "Str. Dunării, nr. 59, Săcueni",
+  "judet": "Bihor"
+ },
+ {
+  "idx": 513,
+  "bloc": "Bistrița-Năsăud",
+  "id": 14129,
+  "lat": 47.212754,
+  "lng": 22.209358,
+  "title": "Str. Pandurilor Bl. Z2, Marghita",
+  "judet": "Bihor"
+ },
+ {
+  "idx": 514,
+  "bloc": "Bistrița-Năsăud",
+  "id": 14130,
+  "lat": 47.206086,
+  "lng": 22.20144,
+  "title": "str. Băile Herculane, bl. RAF, sc.5B, Marghita",
+  "judet": "Bihor"
+ },
+ {
+  "idx": 797,
+  "bloc": "Brăila",
+  "id": 14413,
+  "lat": 45.658723,
+  "lng": 25.596842,
+  "title": "bd. Griviţei, nr. 39 bl. 28, Brașov",
+  "judet": "Brașov"
+ },
+ {
+  "idx": 809,
+  "bloc": "Brașov",
+  "id": 14425,
+  "lat": 45.357979,
+  "lng": 25.59967,
+  "title": "str. M.cel Bătrân nr.47 sc.B, Brașov",
+  "judet": "Prahova"
+ },
+ {
+  "idx": 956,
+  "bloc": "Brașov",
+  "id": 14572,
+  "lat": 45.805265,
+  "lng": 25.963717,
+  "title": "SC Fabrica de Pulberi SRL - str.Combinatului, nr.14, Făgăraș",
+  "judet": "Covasna"
+ },
+ {
+  "idx": 1057,
+  "bloc": "Buzău",
+  "id": 14673,
+  "lat": 44.205031,
+  "lng": 27.311455,
+  "title": "GDF GAZ SUEZ ENERGY S.A. - str. Luceafarului nr. 20, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1058,
+  "bloc": "Buzău",
+  "id": 14674,
+  "lat": 44.193147,
+  "lng": 27.327601,
+  "title": "Direcţia Generală a Finanţelor Publice. Sucursala Calarasi ANAF - str.<br />Eroilor nr. 6-8, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1059,
+  "bloc": "Buzău",
+  "id": 14675,
+  "lat": 44.203429,
+  "lng": 27.312743,
+  "title": "Direcţia Generală de Asistenţă Socială şi Protecţia Copilului - Centrul de Servicii Sociale pentru Copil şi Familie S.E.R.A. - str. Belsugului nr. 7, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1060,
+  "bloc": "Buzău",
+  "id": 14676,
+  "lat": 44.193873,
+  "lng": 27.328869,
+  "title": "Tribunalul Calarasi - str. Bucuresti nr.106, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1061,
+  "bloc": "Buzău",
+  "id": 14677,
+  "lat": 44.196097,
+  "lng": 27.322976,
+  "title": "Agentia judeteana pentru plati si inspectie sociala / Casa de Pensii - str.<br />Flacara nr. 57-59, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1062,
+  "bloc": "Buzău",
+  "id": 14678,
+  "lat": 44.193731,
+  "lng": 27.351928,
+  "title": "Spitalul de Pneumoftiziologie Călăraşi - Varianta Nord nr. 2, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1077,
+  "bloc": "Caraș-Severin",
+  "id": 14693,
+  "lat": 44.205841,
+  "lng": 27.319016,
+  "title": "Primăria Călăraşi SPCTLAFL Bl. L29, sc. 3, str. Baraganului, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1078,
+  "bloc": "Caraș-Severin",
+  "id": 14694,
+  "lat": 44.205868,
+  "lng": 27.319537,
+  "title": "Primăria Călăraşi SPCTLAFL Bl. L30, sc. 1, str. Baraganului, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1079,
+  "bloc": "Caraș-Severin",
+  "id": 14695,
+  "lat": 44.20552,
+  "lng": 27.319229,
+  "title": "Primăria Călăraşi SPCTLAFL Bl. L30, sc. 3, str. Baraganului, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1080,
+  "bloc": "Caraș-Severin",
+  "id": 14696,
+  "lat": 44.205698,
+  "lng": 27.319856,
+  "title": "Primăria Călăraşi SPCTLAFL Bl. L31, sc. 1, str. Baraganului, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1081,
+  "bloc": "Caraș-Severin",
+  "id": 14697,
+  "lat": 44.205356,
+  "lng": 27.319542,
+  "title": "Primăria Călăraşi SPCTLAFL Bl. L31, sc. 3, str. Baraganului, Calarasi",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 1440,
+  "bloc": "Constanța",
+  "id": 15056,
+  "lat": 45.85914,
+  "lng": 25.77609,
+  "title": "str. Vasile Goldis, nr.11, bl.23, Sfântu Gheorghe",
+  "judet": "Covasna"
+ },
+ {
+  "idx": 1441,
+  "bloc": "Constanța",
+  "id": 15057,
+  "lat": 45.858988,
+  "lng": 25.776551,
+  "title": "str. Vasile Goldis, nr.11, bl.24, Sfântu Gheorghe",
+  "judet": "Covasna"
+ },
+ {
+  "idx": 1442,
+  "bloc": "Constanța",
+  "id": 15058,
+  "lat": 45.860402,
+  "lng": 25.774803,
+  "title": "str. Stadionului, nr.14, Sfântu Gheorghe",
+  "judet": "Covasna"
+ },
+ {
+  "idx": 1443,
+  "bloc": "Constanța",
+  "id": 15059,
+  "lat": 45.860023,
+  "lng": 25.774644,
+  "title": "str. Stadionului, nr.16, Sfântu Gheorghe",
+  "judet": "Covasna"
+ },
+ {
+  "idx": 1464,
+  "bloc": "Dâmbovița",
+  "id": 15080,
+  "lat": 45.673764,
+  "lng": 26.039747,
+  "title": "Spitalul orăşenesc, DN 10, Întorsura Buzăului",
+  "judet": "Covasna"
+ },
+ {
+  "idx": 1465,
+  "bloc": "Dâmbovița",
+  "id": 15081,
+  "lat": 46.072139,
+  "lng": 25.592031,
+  "title": "str. Kossuth Lajos, nr.249, Baraolt",
+  "judet": "Covasna"
+ },
+ {
+  "idx": 1466,
+  "bloc": "Dâmbovița",
+  "id": 15082,
+  "lat": 45.916894,
+  "lng": 25.778342,
+  "title": "Str. Principală, nr. 166, Valea Crișului",
+  "judet": "Covasna"
+ },
+ {
+  "idx": 1568,
+  "bloc": "Dâmbovița",
+  "id": 15184,
+  "lat": 44.282295,
+  "lng": 25.645265,
+  "title": "Str. Cpt.Pantea Ion,Bl. A, Moreni",
+  "judet": "Giurgiu"
+ },
+ {
+  "idx": 1954,
+  "bloc": "Galați",
+  "id": 15570,
+  "lat": 43.911167,
+  "lng": 25.972056,
+  "title": "Bl. B1/1S Sc. D, Bld. Bucureşti, Giurgiu",
+  "judet": "Giurgiu"
+ },
+ {
+  "idx": 2103,
+  "bloc": "Harghita",
+  "id": 15719,
+  "lat": 47.636027,
+  "lng": 24.435319,
+  "title": "Săcel, nr. 70, Săcel",
+  "judet": "Maramureș"
+ },
+ {
+  "idx": 2104,
+  "bloc": "Harghita",
+  "id": 15720,
+  "lat": 45.873556,
+  "lng": 22.914736,
+  "title": "str. Aleea Moţilor, bl.2A, Deva",
+  "judet": "Hunedoara"
+ },
+ {
+  "idx": 2105,
+  "bloc": "Harghita",
+  "id": 15721,
+  "lat": 45.859908,
+  "lng": 22.908281,
+  "title": "str. Mihai Eminescu, bl.T1, sc. A, Deva",
+  "judet": "Hunedoara"
+ },
+ {
+  "idx": 2106,
+  "bloc": "Harghita",
+  "id": 15722,
+  "lat": 45.859686,
+  "lng": 22.906172,
+  "title": "str. Mihai Eminescu, bl.T1, sc. B, Deva",
+  "judet": "Hunedoara"
+ },
+ {
+  "idx": 2131,
+  "bloc": "Hunedoara",
+  "id": 15747,
+  "lat": 44.71145,
+  "lng": 26.636534,
+  "title": "Bl.CD4 ScaraA Str. Ion Creanga Nr.4, Urziceni",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2132,
+  "bloc": "Hunedoara",
+  "id": 15748,
+  "lat": 44.71155,
+  "lng": 26.637054,
+  "title": "Bl.CD4 ScaraB Str. Ion Creanga Nr.4, Urziceni",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2133,
+  "bloc": "Hunedoara",
+  "id": 15749,
+  "lat": 44.71544,
+  "lng": 26.644561,
+  "title": "Str. Revolutiei Nr.15A, Urziceni",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2134,
+  "bloc": "Hunedoara",
+  "id": 15750,
+  "lat": 44.560638,
+  "lng": 27.355899,
+  "title": "B-dul Matei Basarab Nr.14, Slobozia",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2135,
+  "bloc": "Hunedoara",
+  "id": 15751,
+  "lat": 44.567034,
+  "lng": 27.359556,
+  "title": "Str. Lacului Nr.6A, Slobozia",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2136,
+  "bloc": "Hunedoara",
+  "id": 15752,
+  "lat": 44.578965,
+  "lng": 27.387657,
+  "title": "Sos. Brailei Nr. 14, Slobozia",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2137,
+  "bloc": "Hunedoara",
+  "id": 15753,
+  "lat": 44.564885,
+  "lng": 27.349953,
+  "title": "Str. Garii Nr. 1, Slobozia",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2138,
+  "bloc": "Iași",
+  "id": 15754,
+  "lat": 44.53489,
+  "lng": 27.38733,
+  "title": "Str. Călărași Km. 4, Slobozia",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2139,
+  "bloc": "Iași",
+  "id": 15755,
+  "lat": 44.408087,
+  "lng": 27.823041,
+  "title": "Bl. BN5 Str. Jandarmeriei, Fetesti",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2140,
+  "bloc": "Iași",
+  "id": 15756,
+  "lat": 44.40827,
+  "lng": 27.822992,
+  "title": "Bl. BN6 Str. Jandarmeriei, Fetesti",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2141,
+  "bloc": "Iași",
+  "id": 15757,
+  "lat": 44.416298,
+  "lng": 27.818612,
+  "title": "Str. Depoului Nr. 2, Fetesti",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2142,
+  "bloc": "Iași",
+  "id": 15758,
+  "lat": 44.638835,
+  "lng": 27.664754,
+  "title": "Str. Ionel Perlea Nr.1, Tandarei",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2143,
+  "bloc": "Iași",
+  "id": 15759,
+  "lat": 44.656223,
+  "lng": 27.637922,
+  "title": "Str. Teilor Nr.1-3, Tandarei",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 2400,
+  "bloc": "Maramureș",
+  "id": 16016,
+  "lat": 44.633185,
+  "lng": 22.678242,
+  "title": "Bulevardul Mihai Viteazu, nr.1A, Bl D01, Dr. Tr. Severin",
+  "judet": "Mehedinți"
+ },
+ {
+  "idx": 2401,
+  "bloc": "Maramureș",
+  "id": 16017,
+  "lat": 44.63345,
+  "lng": 22.677895,
+  "title": "Bulevardul Mihai Viteazu, nr. 1B, Bl D02, Dr. Tr. Severin",
+  "judet": "Mehedinți"
+ },
+ {
+  "idx": 2402,
+  "bloc": "Maramureș",
+  "id": 16018,
+  "lat": 44.633762,
+  "lng": 22.677485,
+  "title": "Bulevardul Mihai Viteazu, nr. 1C, Bl D03, Dr. Tr. Severin",
+  "judet": "Mehedinți"
+ },
+ {
+  "idx": 2403,
+  "bloc": "Maramureș",
+  "id": 16019,
+  "lat": 44.632829,
+  "lng": 22.678653,
+  "title": "Bulevardul Mihai Viteazu,nr. 1D, Bl D04, Dr. Tr. Severin",
+  "judet": "Mehedinți"
+ },
+ {
+  "idx": 2424,
+  "bloc": "Mureș",
+  "id": 16040,
+  "lat": 44.306863,
+  "lng": 22.57365,
+  "title": "Porţile de Fier II - Motel Restaurant Colonie, Comuna Gogoșu, Comuna Gogoșu Colonia<br />P.F. 2",
+  "judet": "Mehedinți"
+ },
+ {
+  "idx": 2425,
+  "bloc": "Mureș",
+  "id": 16041,
+  "lat": 44.306333,
+  "lng": 22.575243,
+  "title": "Porţile de Fier II - Bloc Garsoniere Colonie, Comuna Gogoșu, Comuna Gogoșu Colonia<br />P.F. 2",
+  "judet": "Mehedinți"
+ },
+ {
+  "idx": 2426,
+  "bloc": "Mureș",
+  "id": 16042,
+  "lat": 44.318781,
+  "lng": 22.567173,
+  "title": "Porţile de Fier II - Ecluza PF II,Comuna Gogoșu, Comuna Gogoșu Colonia<br />P.F. 2",
+  "judet": "Mehedinți"
+ },
+ {
+  "idx": 2591,
+  "bloc": "Neamț",
+  "id": 16207,
+  "lat": 47.144,
+  "lng": 27.61933,
+  "title": "S.C. Arcelor Mittal Tubular Products Roman S.A., Cordun",
+  "judet": "Iași"
+ },
+ {
+  "idx": 2645,
+  "bloc": "Olt",
+  "id": 16261,
+  "lat": 47.193173,
+  "lng": 23.051393,
+  "title": "str. Simion Bărnuţiu, nr. 67(Spital Judeţean), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2646,
+  "bloc": "Olt",
+  "id": 16262,
+  "lat": 47.179967,
+  "lng": 23.053622,
+  "title": "str. Unirii, nr.19 (Banca Reiffeisen), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2647,
+  "bloc": "Olt",
+  "id": 16263,
+  "lat": 47.179609,
+  "lng": 23.053605,
+  "title": "str. Simion Oros, nr.3(Activ Plaza Mall), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2648,
+  "bloc": "Olt",
+  "id": 16264,
+  "lat": 47.17924,
+  "lng": 23.052972,
+  "title": "str. Simion Oros nr. 5 (Piaţa agroalimentară), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2649,
+  "bloc": "Olt",
+  "id": 16265,
+  "lat": 47.17714,
+  "lng": 23.055095,
+  "title": "Str. 22 decembrie 1989, nr.9 (Centru de boli rare), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2650,
+  "bloc": "Olt",
+  "id": 16266,
+  "lat": 47.17733,
+  "lng": 23.053574,
+  "title": "str. Piaţa Unirii, nr.13(Clădire de birouri-Complex Manager), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2651,
+  "bloc": "Olt",
+  "id": 16267,
+  "lat": 47.214236,
+  "lng": 23.04312,
+  "title": "b-dul. M Viteazu, nr.85 (Clădire de birouri-ITM), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2652,
+  "bloc": "Satu Mare",
+  "id": 16268,
+  "lat": 47.191723,
+  "lng": 23.052741,
+  "title": "str. Dumbrava, nr.1 (Grădiniţa nr.10), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2653,
+  "bloc": "Satu Mare",
+  "id": 16269,
+  "lat": 47.194183,
+  "lng": 23.054281,
+  "title": "Str. Sfânta Vineri nr. 10 B (Farmacie), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2654,
+  "bloc": "Satu Mare",
+  "id": 16270,
+  "lat": 47.190495,
+  "lng": 23.054971,
+  "title": "Str. Simion Bărnuţiu nr.23 B (Cabinete medicale – BioLab), ZALĂU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2655,
+  "bloc": "Satu Mare",
+  "id": 16271,
+  "lat": 47.231231,
+  "lng": 23.054971,
+  "title": "str. Carpaţi, nr.5 (Asistenţă socială), ŞIMLEU SILVANIEI",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2656,
+  "bloc": "Satu Mare",
+  "id": 16272,
+  "lat": 47.259071,
+  "lng": 23.256163,
+  "title": "str.1 Mai., nr.8 (Judecătoria şi Parchetul Jibou), JIBOU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2657,
+  "bloc": "Satu Mare",
+  "id": 16273,
+  "lat": 47.260981,
+  "lng": 23.255693,
+  "title": "str. 1 Decembrie 1918, nr.6 (Banca BRD), JIBOU",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2687,
+  "bloc": "Satu Mare",
+  "id": 16303,
+  "lat": 47.454532,
+  "lng": 23.115243,
+  "title": "Str. Principală nr.144, Apa",
+  "judet": "Maramureș"
+ },
+ {
+  "idx": 2688,
+  "bloc": "Satu Mare",
+  "id": 16304,
+  "lat": 47.443725,
+  "lng": 23.121725,
+  "title": "Sat Someșeni str. Principală nr.58, Apa",
+  "judet": "Sălaj"
+ },
+ {
+  "idx": 2689,
+  "bloc": "Satu Mare",
+  "id": 16305,
+  "lat": 47.462234,
+  "lng": 23.122834,
+  "title": "Str. Principala nr.566/B, Apa",
+  "judet": "Maramureș"
+ },
+ {
+  "idx": 2690,
+  "bloc": "Satu Mare",
+  "id": 16306,
+  "lat": 47.461927,
+  "lng": 23.122543,
+  "title": "Str. Principala 132, Apa",
+  "judet": "Maramureș"
+ },
+ {
+  "idx": 2691,
+  "bloc": "Satu Mare",
+  "id": 16307,
+  "lat": 47.462536,
+  "lng": 23.112076,
+  "title": "Str. Principala 192, Apa",
+  "judet": "Maramureș"
+ },
+ {
+  "idx": 2715,
+  "bloc": "Sibiu",
+  "id": 16331,
+  "lat": 47.736446,
+  "lng": 22.396658,
+  "title": "Str. Principala nr.230, Urziceni",
+  "judet": "Satu Mare"
+ },
+ {
+  "idx": 2716,
+  "bloc": "Sibiu",
+  "id": 16332,
+  "lat": 47.807972,
+  "lng": 22.776364,
+  "title": "Str. Principala nr. 263, Vetiș",
+  "judet": "Satu Mare"
+ },
+ {
+  "idx": 3010,
+  "bloc": "Vaslui",
+  "id": 16626,
+  "lat": 45.69735,
+  "lng": 27.183072,
+  "title": "B-dul Unirii, nr. 61, FOCȘANI",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3011,
+  "bloc": "Vaslui",
+  "id": 16627,
+  "lat": 45.696669,
+  "lng": 27.183611,
+  "title": "B-dul Unirii, nr. 59, FOCȘANI",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3012,
+  "bloc": "Vaslui",
+  "id": 16628,
+  "lat": 45.688575,
+  "lng": 27.184683,
+  "title": "B-dul Unirii, nr. 3, FOCȘANI",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3013,
+  "bloc": "Vaslui",
+  "id": 16629,
+  "lat": 45.674555,
+  "lng": 27.176437,
+  "title": "Str. Ulmului, nr. 5, FOCȘANI",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3014,
+  "bloc": "Vaslui",
+  "id": 16630,
+  "lat": 45.674133,
+  "lng": 27.177114,
+  "title": "Str. Ulmului, nr. 11, FOCȘANI",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3015,
+  "bloc": "Vaslui",
+  "id": 16631,
+  "lat": 45.698997,
+  "lng": 27.185907,
+  "title": "Str. Eroilor, nr. 8, bl. D1, FOCȘANI",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3016,
+  "bloc": "Vaslui",
+  "id": 16632,
+  "lat": 45.698997,
+  "lng": 27.185907,
+  "title": "Str. Eroilor, nr. 8, bl. D1, FOCȘANI",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3017,
+  "bloc": "Prahova",
+  "id": 16633,
+  "lat": 45.698643,
+  "lng": 27.185784,
+  "title": "Str. Eroilor, nr. 8, bl. D2, FOCȘANI",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3018,
+  "bloc": "Prahova",
+  "id": 16634,
+  "lat": 45.698643,
+  "lng": 27.185784,
+  "title": "Str. Eroilor, nr. 8, bl. D2, FOCȘANI",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3019,
+  "bloc": "Prahova",
+  "id": 16635,
+  "lat": 46.094873,
+  "lng": 27.182348,
+  "title": "Str. 1 Mai, nr. 35, ADJUD",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3020,
+  "bloc": "Prahova",
+  "id": 16636,
+  "lat": 46.10777,
+  "lng": 27.172988,
+  "title": "Str. Republicii (DN2), ADJUD",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3021,
+  "bloc": "Prahova",
+  "id": 16637,
+  "lat": 45.904354,
+  "lng": 27.091108,
+  "title": "Str. Nicolae Titulescu, nr. 63, PANCIU",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3022,
+  "bloc": "Prahova",
+  "id": 16638,
+  "lat": 45.908168,
+  "lng": 27.091109,
+  "title": "Str. Titu Maiorescu, nnr. 15, PANCIU",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 3201,
+  "bloc": "Prahova",
+  "id": 16817,
+  "lat": 45.825305,
+  "lng": 22.115638,
+  "title": "Primaria Dumbrava, Com. Dumbrava",
+  "judet": "Timiș"
+ },
+ {
+  "idx": 3238,
+  "bloc": "Teleorman",
+  "id": 16854,
+  "lat": 45.16405,
+  "lng": 28.79516,
+  "title": "Mun. Tulcea, str. G. Corneliu, nr. 312 bl. A4 sc. A, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3239,
+  "bloc": "Teleorman",
+  "id": 16855,
+  "lat": 45.16365,
+  "lng": 28.79257,
+  "title": "Mun. Tulcea, str. Viticulturii nr. 20 bl. A 8 sc. A, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3240,
+  "bloc": "Teleorman",
+  "id": 16856,
+  "lat": 45.163567,
+  "lng": 28.793278,
+  "title": "Mun. Tulcea, str. Viticulturii bl. A 9 sc. A, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3241,
+  "bloc": "Teleorman",
+  "id": 16857,
+  "lat": 45.179002,
+  "lng": 28.778013,
+  "title": "Mun. Tulcea, str. Ecoului nr. 4 bl.. U 5 sc. A, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3242,
+  "bloc": "Teleorman",
+  "id": 16858,
+  "lat": 45.179255,
+  "lng": 28.778137,
+  "title": "Mun. Tulcea, str. Ecoului, bl. U 5 sc. B, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3243,
+  "bloc": "Teleorman",
+  "id": 16859,
+  "lat": 45.179387,
+  "lng": 28.77822,
+  "title": "Mun. Tulcea, str. Ecoului bl.. U 5 sc. C, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3244,
+  "bloc": "Teleorman",
+  "id": 16860,
+  "lat": 45.17805,
+  "lng": 28.78126,
+  "title": "Mun. Tulcea, str. Ecoului bl.. U 5 sc. D, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3245,
+  "bloc": "Teleorman",
+  "id": 16861,
+  "lat": 45.17758,
+  "lng": 28.781045,
+  "title": "Mun. Tulcea, str. Metalurgiştilor bl. Z 11 sc. A, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3246,
+  "bloc": "Teleorman",
+  "id": 16862,
+  "lat": 45.178003,
+  "lng": 28.478103,
+  "title": "Mun. Tulcea, str. Metalurgiştilor bl. Z 11 sc. B, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3247,
+  "bloc": "Teleorman",
+  "id": 16863,
+  "lat": 45.178226,
+  "lng": 28.781192,
+  "title": "Mun. Tulcea, str. Metalurgiştilor bl. Z 11 sc. C, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3248,
+  "bloc": "Vâlcea",
+  "id": 16864,
+  "lat": 45.17836,
+  "lng": 28.76869,
+  "title": "S.C. Vimetco S.A. Mun. Tulcea, str. Isaccei nr. 113, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3249,
+  "bloc": "Vâlcea",
+  "id": 16865,
+  "lat": 45.17281,
+  "lng": 28.79788,
+  "title": "BCR Sucursala Tulcea Mun. Tulcea str. Babadag nr. 118, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3250,
+  "bloc": "Vâlcea",
+  "id": 16866,
+  "lat": 45.17761,
+  "lng": 28.79298,
+  "title": "SC. CONFECŢIA S.A. Mun. Tulcea str. Victoriei, nr. 57, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3251,
+  "bloc": "Vâlcea",
+  "id": 16867,
+  "lat": 45.17653,
+  "lng": 28.80701,
+  "title": "S.C. TELEKOM SA. Mun. Tulcea str. Mahmudiei, nr. 17, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3252,
+  "bloc": "Vâlcea",
+  "id": 16868,
+  "lat": 45.18317,
+  "lng": 28.78952,
+  "title": "BIROUL VAMAL TULCEA Mun. Tulcea str. Portului nr. 18 A, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3253,
+  "bloc": "Vâlcea",
+  "id": 16869,
+  "lat": 45.18032,
+  "lng": 28.79527,
+  "title": "ARBDD TULCEA Mun. Tulcea str. Portului nr. 34 A, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3254,
+  "bloc": "Vâlcea",
+  "id": 16870,
+  "lat": 45.1717,
+  "lng": 28.79813,
+  "title": "ITM TULCEA Mun. Tulcea str. Babadag nr.118, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3255,
+  "bloc": "Vâlcea",
+  "id": 16871,
+  "lat": 45.17204,
+  "lng": 28.79822,
+  "title": "BRD GSG Sucursala Tulcea Mun. Tulcea str. Babadag nr. 116, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3256,
+  "bloc": "Vâlcea",
+  "id": 16872,
+  "lat": 45.17661,
+  "lng": 28.80361,
+  "title": "Parchetul de pe lângă Tribunalul Tulcea Str. Frumoasă nr.8, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3257,
+  "bloc": "Vâlcea",
+  "id": 16873,
+  "lat": 45.16718,
+  "lng": 28.79481,
+  "title": "DGRFP Galaţi AJFP Tulcea Mun. Tulcea str. Babadag nr. 163, Tulcea",
+  "judet": "Tulcea"
+ },
+ {
+  "idx": 3412,
+  "bloc": "București",
+  "id": 17028,
+  "lat": 44.276019,
+  "lng": 26.042698,
+  "title": "Str. Turda 127 Bl. 2, sc. C, Sector 1",
+  "judet": "Giurgiu"
+ },
+ {
+  "idx": 3413,
+  "bloc": "București",
+  "id": 17029,
+  "lat": 44.27612,
+  "lng": 26.042599,
+  "title": "Str. Turda 127 Bl. 2, sc. D, Sector 1",
+  "judet": "Giurgiu"
+ },
+ {
+  "idx": 3414,
+  "bloc": "București",
+  "id": 17030,
+  "lat": 44.276476,
+  "lng": 26.042864,
+  "title": "Str. Turda 129 Bloc,1,sc. B, Sector 1",
+  "judet": "Giurgiu"
+ },
+ {
+  "idx": 3415,
+  "bloc": "București",
+  "id": 17031,
+  "lat": 44.276559,
+  "lng": 26.043016,
+  "title": "Str. Turda 129 Bl. 1, sc. C, Sector 1",
+  "judet": "Giurgiu"
+ },
+ {
+  "idx": 3416,
+  "bloc": "București",
+  "id": 17032,
+  "lat": 44.276729,
+  "lng": 26.043137,
+  "title": "Str. Turda 129 Bl. 1, sc. D, Sector 1",
+  "judet": "Giurgiu"
+ },
+ {
+  "idx": 3431,
+  "bloc": "București",
+  "id": 17047,
+  "lat": 44.44453,
+  "lng": 23.097442,
+  "title": "Str. George Enescu nr. 27-29 UGIR, Sector 1",
+  "judet": "Mehedinți"
+ },
+ {
+  "idx": 3436,
+  "bloc": "București",
+  "id": 17052,
+  "lat": 45.471486,
+  "lng": 26.071075,
+  "title": "Str. Mãrãşti nr. 59 Univ. de Ştiinţe Agronomice şi Medicinã Veterinarã, Sector 1",
+  "judet": "Prahova"
+ },
+ {
+  "idx": 3440,
+  "bloc": "București",
+  "id": 17056,
+  "lat": 44.469939,
+  "lng": 23.052402,
+  "title": "Str. Vrancei nr. 9A Centrul de Servicii Sociale Creşa Vrancei, Sector 1",
+  "judet": "Mehedinți"
+ },
+ {
+  "idx": 3647,
+  "bloc": "București",
+  "id": 17263,
+  "lat": 45.442289,
+  "lng": 27.134294,
+  "title": "Str. Lt. Sachelarie Visarion 4 Bloc 112, sc A, Sector 3",
+  "judet": "Vrancea"
+ },
+ {
+  "idx": 4040,
+  "bloc": "București",
+  "id": 17656,
+  "lat": 44.34389,
+  "lng": 26.093839,
+  "title": "Str. Tatulesti 5 Bloc 100A, sc.D, Sector 4",
+  "judet": "Ilfov"
+ },
+ {
+  "idx": 4293,
+  "bloc": "București",
+  "id": 17909,
+  "lat": 44.431701,
+  "lng": 26.989111,
+  "title": "Str. Preciziei 14 Bl. 1 P, sc. 2, Sector 6",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 4403,
+  "bloc": "București",
+  "id": 18019,
+  "lat": 44.436829,
+  "lng": 26.986456,
+  "title": "Bd. Iuliu MANIU 492 ÷ 514 Metrou Cash &amp; Carry România S.R.L., Sector 6",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 4407,
+  "bloc": "București",
+  "id": 18023,
+  "lat": 44.424251,
+  "lng": 26.977346,
+  "title": "Bd. Timişoara 106 Cet -Vest, Sector 6",
+  "judet": "Călărași"
+ },
+ {
+  "idx": 4520,
+  "bloc": "București",
+  "id": 18136,
+  "lat": 44.573913,
+  "lng": 26.935711,
+  "title": "Str. Studioului bl. D, Sc.A Consiliul Local Buftea, Buftea",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 4521,
+  "bloc": "București",
+  "id": 18137,
+  "lat": 44.558165,
+  "lng": 26.948994,
+  "title": "Str. Vlăsiei bl.B5 Consiliul Local Buftea Ansamblul ANL, Buftea",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 4522,
+  "bloc": "București",
+  "id": 18138,
+  "lat": 44.558165,
+  "lng": 26.948994,
+  "title": "Str. Vlăsiei bl.B6 Consiliul Local Buftea Ansamblul ANL, Buftea",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 4523,
+  "bloc": "București",
+  "id": 18139,
+  "lat": 44.562771,
+  "lng": 26.944702,
+  "title": "Str. Oltului nr.7, Bl. B1 Consiliul Local Buftea Ansamblul ANL, Buftea",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 4524,
+  "bloc": "București",
+  "id": 18140,
+  "lat": 44.562771,
+  "lng": 26.944702,
+  "title": "Str. Oltului, nr.7, Bl. B2 Consiliul Local Buftea Ansamblul ANL, Buftea",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 4525,
+  "bloc": "București",
+  "id": 18141,
+  "lat": 44.562771,
+  "lng": 26.944702,
+  "title": "Str. Oltului nr.7, Bl. B3Consiliul Local Buftea Ansamblul ANL, Buftea",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 4526,
+  "bloc": "București",
+  "id": 18142,
+  "lat": 44.562771,
+  "lng": 26.944702,
+  "title": "Str. Oltului nr.7, Bl. B4 Consiliul Local Buftea Ansamblul ANL, Buftea",
+  "judet": "Ialomița"
+ },
+ {
+  "idx": 4527,
+  "bloc": "București",
+  "id": 18143,
+  "lat": 44.451805,
+  "lng": 26.180369,
+  "title": "Str. Cuza Vodă nr. 23 Consiliul Local Dobroiesti, Dobroeşti",
+  "judet": "Ilfov"
+ },
+ {
+  "idx": 4528,
+  "bloc": "București",
+  "id": 18144,
+  "lat": 44.425923,
+  "lng": 25.965856,
+  "title": "Şoseaua de centură nr. 4K Cimitirul Vest -Administraţia cimitirelor şi<br />crematorului uman, Domneşti",
+  "judet": "Ilfov"
+ },
+ {
+  "idx": 4529,
+  "bloc": "București",
+  "id": 18145,
+  "lat": 44.463069,
+  "lng": 25.941933,
+  "title": "Str. Păcii nr. 41 Grădiniţa cu Program Prelungit Nr.2, Dragomireşti Deal",
+  "judet": "Ilfov"
+ },
+ {
+  "idx": 4530,
+  "bloc": "București",
+  "id": 18146,
+  "lat": 44.386142,
+  "lng": 26.241976,
+  "title": "Str. Libertăţii nr. 193 Căminul Cultural Glina, Glina",
+  "judet": "Ilfov"
+ },
+ {
+  "idx": 4531,
+  "bloc": "București",
+  "id": 18147,
+  "lat": 44.386505,
+  "lng": 26.234597,
+  "title": "Str. Libertăţii, nr.137 E Consiliul Local Grădiştea-Complex<br />multifuncţional, Grădiştea",
+  "judet": "Ilfov"
+ },
+ {
+  "idx": 4532,
+  "bloc": "București",
+  "id": 18148,
+  "lat": 44.329492,
+  "lng": 26.077767,
+  "title": "Şos. Giurgiului nr. 279 Primăria Comunei Jilava, Jilava",
+  "judet": "Ilfov"
+ },
+ {
+  "idx": 4533,
+  "bloc": "București",
+  "id": 18149,
+  "lat": 44.350107,
+  "lng": 26.029168,
+  "title": "Str. Călugăreni nr. 2 ÷ 4 Consiliul Local MĂGURELE, Măgurele",
+  "judet": "Ilfov"
+ },
+ {
+  "idx": 4534,
+  "bloc": "București",
+  "id": 18150,
+  "lat": 44.64163,
+  "lng": 26.202752,
+  "title": "Şos. Eroilor (Eternităţii) nr. 70 Grădiniţă nr. 1Moara Vlăsiei, Moara Vlăsiei",
+  "judet": "Ilfov"
+ },
+ {
+  "idx": 4536,
+  "bloc": "București",
+  "id": 18152,
+  "lat": 45.616522,
+  "lng": 25.653407,
+  "title": "Calea Bucureşti nr.257 Oficiul Român pt.Imigrări - Centru Cazare<br />OTOPENI, Otopeni",
+  "judet": "Brașov"
+ },
+ {
+  "idx": 4537,
+  "bloc": "București",
+  "id": 18153,
+  "lat": 44.572258,
+  "lng": 26.070712,
+  "title": "Str. Calea Bucureştilor nr.224 EC.N. Aeroporturi BUCUREŞTI, Punct de<br />Lucru AIHCB, Otopeni",
+  "judet": "Ilfov"
+ }
+]

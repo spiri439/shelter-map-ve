@@ -1,0 +1,292 @@
+[
+ {
+  "id": 17028,
+  "title": "Str. Turda 127 Bl. 2, sc. C, Sector 1",
+  "street": "Turda",
+  "number": "127",
+  "sector": "1",
+  "old": [
+   44.276019,
+   26.042698
+  ],
+  "old_county": "Giurgiu",
+  "results": [
+   {
+    "lat": 44.4601368,
+    "lng": 26.0703389,
+    "name": "127, Strada Turda, Grivița, Sector 1, București, 011325, România"
+   }
+  ]
+ },
+ {
+  "id": 17029,
+  "title": "Str. Turda 127 Bl. 2, sc. D, Sector 1",
+  "street": "Turda",
+  "number": "127",
+  "sector": "1",
+  "old": [
+   44.27612,
+   26.042599
+  ],
+  "old_county": "Giurgiu",
+  "results": [
+   {
+    "lat": 44.4601368,
+    "lng": 26.0703389,
+    "name": "127, Strada Turda, Grivița, Sector 1, București, 011325, România"
+   }
+  ]
+ },
+ {
+  "id": 17030,
+  "title": "Str. Turda 129 Bloc,1,sc. B, Sector 1",
+  "street": "Turda",
+  "number": "129",
+  "sector": "1",
+  "old": [
+   44.276476,
+   26.042864
+  ],
+  "old_county": "Giurgiu",
+  "results": [
+   {
+    "lat": 44.4612274,
+    "lng": 26.0711603,
+    "name": "Bl. 1, 129, Strada Turda, Grivița, Sector 1, București, 011334, România"
+   },
+   {
+    "lat": 44.4611239,
+    "lng": 26.0712856,
+    "name": "129, Strada Turda, Grivița, Sector 1, București, 011326, România"
+   }
+  ]
+ },
+ {
+  "id": 17031,
+  "title": "Str. Turda 129 Bl. 1, sc. C, Sector 1",
+  "street": "Turda",
+  "number": "129",
+  "sector": "1",
+  "old": [
+   44.276559,
+   26.043016
+  ],
+  "old_county": "Giurgiu",
+  "results": [
+   {
+    "lat": 44.4612274,
+    "lng": 26.0711603,
+    "name": "Bl. 1, 129, Strada Turda, Grivița, Sector 1, București, 011334, România"
+   },
+   {
+    "lat": 44.4611239,
+    "lng": 26.0712856,
+    "name": "129, Strada Turda, Grivița, Sector 1, București, 011326, România"
+   }
+  ]
+ },
+ {
+  "id": 17032,
+  "title": "Str. Turda 129 Bl. 1, sc. D, Sector 1",
+  "street": "Turda",
+  "number": "129",
+  "sector": "1",
+  "old": [
+   44.276729,
+   26.043137
+  ],
+  "old_county": "Giurgiu",
+  "results": [
+   {
+    "lat": 44.4612274,
+    "lng": 26.0711603,
+    "name": "Bl. 1, 129, Strada Turda, Grivița, Sector 1, București, 011334, România"
+   },
+   {
+    "lat": 44.4611239,
+    "lng": 26.0712856,
+    "name": "129, Strada Turda, Grivița, Sector 1, București, 011326, România"
+   }
+  ]
+ },
+ {
+  "id": 17047,
+  "title": "Str. George Enescu nr. 27-29 UGIR, Sector 1",
+  "street": "George Enescu",
+  "number": "27",
+  "sector": "1",
+  "old": [
+   44.44453,
+   23.097442
+  ],
+  "old_county": "Mehedinți",
+  "results": [
+   {
+    "lat": 44.4436022,
+    "lng": 26.0976014,
+    "name": "27, Strada George Enescu, Amzei, Piața Romană, Cișmigiu, Sector 1, București, 010303, România"
+   }
+  ]
+ },
+ {
+  "id": 17052,
+  "title": "Str. Mãrãşti nr. 59 Univ. de Ştiinţe Agronomice şi Medicinã Veterinarã, Sector 1",
+  "street": "Mãrãsti",
+  "number": "59",
+  "sector": "1",
+  "old": [
+   45.471486,
+   26.071075
+  ],
+  "old_county": "Prahova",
+  "results": [
+   {
+    "lat": 44.4710276,
+    "lng": 26.0664256,
+    "name": "Universitatea de Știinte Agronomice și Medicină Veterinară București, 59, Bulevardul Mărăști, Domenii, Piața Presei, Dom"
+   },
+   {
+    "lat": 44.4705864,
+    "lng": 26.0711224,
+    "name": "Facultatea de Ingineria și Gestiunea Producțiilor Animaliere, 59, Bulevardul Mărăști, Domenii, Piața Presei, Domenii, Se"
+   },
+   {
+    "lat": 44.471442,
+    "lng": 26.070985,
+    "name": "4434, 59, Bulevardul Mărăști, Domenii, Piața Presei, Domenii, Sector 1, București, 011464, România"
+   }
+  ]
+ },
+ {
+  "id": 17056,
+  "title": "Str. Vrancei nr. 9A Centrul de Servicii Sociale Creşa Vrancei, Sector 1",
+  "street": "Vrancei",
+  "number": "9",
+  "sector": "1",
+  "old": [
+   44.469939,
+   23.052402
+  ],
+  "old_county": "Mehedinți",
+  "results": []
+ },
+ {
+  "id": 17263,
+  "title": "Str. Lt. Sachelarie Visarion 4 Bloc 112, sc A, Sector 3",
+  "street": "Lt. Sachelarie Visarion",
+  "number": "4",
+  "sector": "3",
+  "old": [
+   45.442289,
+   27.134294
+  ],
+  "old_county": "Vrancea",
+  "results": []
+ },
+ {
+  "id": 17656,
+  "title": "Str. Tatulesti 5 Bloc 100A, sc.D, Sector 4",
+  "street": "Tatulesti",
+  "number": "5",
+  "sector": "4",
+  "old": [
+   44.34389,
+   26.093839
+  ],
+  "old_county": "Ilfov",
+  "results": [
+   {
+    "lat": 44.3842922,
+    "lng": 26.0932606,
+    "name": "5, Strada Tătulești, Giurgiului, Sector 4, București, 040832, România"
+   }
+  ]
+ },
+ {
+  "id": 17909,
+  "title": "Str. Preciziei 14 Bl. 1 P, sc. 2, Sector 6",
+  "street": "Preciziei",
+  "number": "14",
+  "sector": "6",
+  "old": [
+   44.431701,
+   26.989111
+  ],
+  "old_county": "Călărași",
+  "results": [
+   {
+    "lat": 44.4328989,
+    "lng": 25.9890523,
+    "name": "Bloc F2, 14, Strada Preciziei, Cartierul Roșu, Militari, Sector 6, București, 062392, România"
+   },
+   {
+    "lat": 44.4315564,
+    "lng": 25.9891919,
+    "name": "14, Strada Preciziei, Cartierul Roșu, Militari, Sector 6, București, 062392, România"
+   },
+   {
+    "lat": 44.4321469,
+    "lng": 25.9892989,
+    "name": "F bis, 14, Strada Preciziei, Cartierul Roșu, Militari, Sector 6, București, 062392, România"
+   }
+  ]
+ },
+ {
+  "id": 18019,
+  "title": "Bd. Iuliu MANIU 492 ÷ 514 Metrou Cash & Carry România S.R.L., Sector 6",
+  "street": "Iuliu MANIU",
+  "number": "492",
+  "sector": "6",
+  "old": [
+   44.436829,
+   26.986456
+  ],
+  "old_county": "Călărași",
+  "results": [
+   {
+    "lat": 44.4339331,
+    "lng": 26.0096729,
+    "name": "Bulevardul Iuliu Maniu, Cartierul Roșu, Militari, Sector 6, București, 061124, România"
+   },
+   {
+    "lat": 44.4343169,
+    "lng": 26.046797,
+    "name": "Bulevardul Iuliu Maniu, Militari, Sector 6, București, 061073, România"
+   },
+   {
+    "lat": 44.4337665,
+    "lng": 26.0058514,
+    "name": "Bulevardul Iuliu Maniu, Cartierul Roșu, Militari, Sector 6, București, 061093, România"
+   }
+  ]
+ },
+ {
+  "id": 18023,
+  "title": "Bd. Timişoara 106 Cet -Vest, Sector 6",
+  "street": "Timisoara",
+  "number": "106",
+  "sector": "6",
+  "old": [
+   44.424251,
+   26.977346
+  ],
+  "old_county": "Călărași",
+  "results": [
+   {
+    "lat": 44.4465157,
+    "lng": 26.1197762,
+    "name": "Strada Episcopul Radu, Piața Obor, Moșilor, Cartierul Armenesc, Sector 2, București, 020674, România"
+   },
+   {
+    "lat": 44.4215593,
+    "lng": 25.9800423,
+    "name": "Bulevardul Timișoara, Sector 6, București, 062204, România"
+   },
+   {
+    "lat": 44.4257757,
+    "lng": 26.0156614,
+    "name": "Bulevardul Timișoara, Sector 6, București, 062047, România"
+   }
+  ]
+ }
+]

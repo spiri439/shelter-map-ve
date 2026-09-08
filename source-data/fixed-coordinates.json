@@ -1,0 +1,86 @@
+{
+ "17028": {
+  "lat": 44.46014,
+  "lng": 26.07034,
+  "precision": "exact",
+  "matched": "strada+sector+numar",
+  "source": "127, Strada Turda, Grivița, Sector 1, București, 011325, România"
+ },
+ "17029": {
+  "lat": 44.46014,
+  "lng": 26.07034,
+  "precision": "exact",
+  "matched": "strada+sector+numar",
+  "source": "127, Strada Turda, Grivița, Sector 1, București, 011325, România"
+ },
+ "17030": {
+  "lat": 44.46123,
+  "lng": 26.07116,
+  "precision": "exact",
+  "matched": "strada+sector+numar",
+  "source": "Bl. 1, 129, Strada Turda, Grivița, Sector 1, București, 011334, România"
+ },
+ "17031": {
+  "lat": 44.46123,
+  "lng": 26.07116,
+  "precision": "exact",
+  "matched": "strada+sector+numar",
+  "source": "Bl. 1, 129, Strada Turda, Grivița, Sector 1, București, 011334, România"
+ },
+ "17032": {
+  "lat": 44.46123,
+  "lng": 26.07116,
+  "precision": "exact",
+  "matched": "strada+sector+numar",
+  "source": "Bl. 1, 129, Strada Turda, Grivița, Sector 1, București, 011334, România"
+ },
+ "17047": {
+  "lat": 44.4436,
+  "lng": 26.0976,
+  "precision": "exact",
+  "matched": "strada+sector+numar",
+  "source": "27, Strada George Enescu, Amzei, Piața Romană, Cișmigiu, Sector 1, București, 010303, România"
+ },
+ "17052": {
+  "lat": 44.47144,
+  "lng": 26.07099,
+  "precision": "exact",
+  "matched": "strada+sector+numar",
+  "source": "4434, 59, Bulevardul Mărăști, Domenii, Piața Presei, Domenii, Sector 1, București, 011464, România"
+ },
+ "17263": {
+  "lat": 44.44226,
+  "lng": 26.13433,
+  "precision": "exact",
+  "matched": "numar",
+  "source": "Bl. 112A, 4, Strada Locotenent Sachelarie Visarion, Ferdinand, Pantelimon, Sector 2, București, 021705, România"
+ },
+ "17656": {
+  "lat": 44.38429,
+  "lng": 26.09326,
+  "precision": "exact",
+  "matched": "strada+sector+numar",
+  "source": "5, Strada Tătulești, Giurgiului, Sector 4, București, 040832, România"
+ },
+ "17909": {
+  "lat": 44.4329,
+  "lng": 25.98905,
+  "precision": "exact",
+  "matched": "strada+sector+numar",
+  "source": "Bloc F2, 14, Strada Preciziei, Cartierul Roșu, Militari, Sector 6, București, 062392, România"
+ },
+ "18019": {
+  "lat": 44.43393,
+  "lng": 26.00967,
+  "precision": "street",
+  "matched": "strada+sector",
+  "source": "Bulevardul Iuliu Maniu, Cartierul Roșu, Militari, Sector 6, București, 061124, România"
+ },
+ "18023": {
+  "lat": 44.42156,
+  "lng": 25.98004,
+  "precision": "street",
+  "matched": "strada+sector",
+  "source": "Bulevardul Timișoara, Sector 6, București, 062204, România"
+ }
+}

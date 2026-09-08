@@ -1,0 +1,10 @@
+# Excluded from dist/shelter-map-ve.zip
+.distignore
+CLAUDE.md
+.wordpress-org
+build
+source-data
+tests
+dist
+.git
+.gitignore

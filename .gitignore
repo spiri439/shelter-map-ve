@@ -1,0 +1,11 @@
+# Local project notes: deployment details for the site this was built for.
+CLAUDE.md
+
+# 32 MB of county polygons, fetched by build/fetch-boundaries.sh
+build/boundaries/
+
+# The packaged plugin goes on releases, not into git
+dist/
+
+__pycache__/
+*.pyc

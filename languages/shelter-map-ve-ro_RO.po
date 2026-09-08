@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vlad Enterprises Shelter Map 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/spiri439/shelter-map-ve/issues\n"
+"Last-Translator: nextdoorentertainment\n"
+"Language-Team: Romanian\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Domain: shelter-map-ve\n"
+
+msgid "The map could not be loaded. Please reload the page."
+msgstr "Harta nu a putut fi încărcată. Reîncarcă pagina, te rugăm."
+
+msgid "Directions"
+msgstr "Navighează"
+
+msgid "Sector %s"
+msgstr "Sectorul %s"
+
+msgid "%s away from you"
+msgstr "la %s de tine"
+
+msgid "Nearest shelter to you"
+msgstr "Cel mai apropiat adăpost de tine"
+
+msgid "Your position"
+msgstr "Poziția ta"
+
+msgid "Finding your position…"
+msgstr "Se caută poziția ta…"
+
+msgid "Could not determine your position. Check that location access is allowed."
+msgstr "Nu am putut afla poziția ta. Verifică dacă ai permis accesul la locație."
+
+msgid "No shelter matches your search."
+msgstr "Niciun adăpost nu corespunde căutării."
+
+msgid "1 shelter"
+msgstr "1 adăpost"
+
+msgid "%s shelters"
+msgstr "%s adăposturi"
+
+msgid "All counties"
+msgstr "Toate județele"
+
+msgid "All sectors"
+msgstr "Toate sectoarele"
+
+msgid "County"
+msgstr "Județ"
+
+msgid "Sector"
+msgstr "Sector"
+
+msgid "Search by address or name"
+msgstr "Caută după adresă sau denumire"
+
+msgid "e.g. Main Street"
+msgstr "ex. Bd. Timișoara"
+
+msgid "Nearest to me"
+msgstr "Cel mai apropiat de mine"
+
+msgid "Loading the map…"
+msgstr "Se încarcă harta…"
+
+msgid "Civil protection shelter map"
+msgstr "Harta adăposturilor de protecție civilă"
+
+msgid "Shelters in %1$s (%2$s)"
+msgstr "Adăposturi în %1$s (%2$s)"
+
+msgid "← All counties"
+msgstr "← Toate județele"
+
+msgid "Shelters by county"
+msgstr "Adăposturi pe județe"
+
+msgid "%s civil protection shelter"
+msgid_plural "%s civil protection shelters"
+msgstr[0] "%s adăpost de protecție civilă"
+msgstr[1] "%s adăposturi de protecție civilă"
+msgstr[2] "%s de adăposturi de protecție civilă"
