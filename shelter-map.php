@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Vlad Enterprises Shelter Map
  * Plugin URI: https://github.com/spiri439/shelter-map-ve
- * Description: Interactive map of Romania's civil protection shelters, with county and sector filtering, text search, and nearest-shelter lookup. Leaflet and OpenStreetMap, no API key. Replaces WP Google Maps. Shortcode: [smve_map]
+ * Description: Interactive map of Romania's civil protection shelters, with county and sector filtering, text search, and nearest-shelter lookup. Leaflet and OpenStreetMap, no API key. Shortcode: [smve_map]
  * Version: 1.0.0
  * Author: nextdoorentertainment
  * Author URI: https://vladenterprises.ro
