@@ -53,6 +53,11 @@ check('height applied', strpos($html, 'height: 700px') !== false);
 check('data-county passed to JS', strpos($html, 'data-county="Cluj"') !== false);
 
 echo "\nBAD INPUT\n";
+// An array value must not reach sanitize_key(), which would be a TypeError.
+$_GET['county'] = array('cluj');
+$html = call_user_func($render, array());
+check('array value falls back', strpos($html, 'smve-counties') !== false);
+
 foreach (array('../../../etc/passwd', 'nonexistent', '', 'cluj/../bucuresti', 'alba;drop') as $value) {
     $_GET['county'] = $value;
     $html = call_user_func($render, array());

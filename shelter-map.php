@@ -68,16 +68,19 @@ class SMVE_Shelter_Map {
      * @return array|null Entry from data/counties.json.
      */
     private function requested_county() {
+        // Sanitised where it is read, and the is_string() guard is what keeps
+        // ?county[]=x from reaching sanitize_key() as an array.
+        //
         // No nonce here on purpose: this is a public, read-only filter shared in
         // links and indexed by search engines. Nothing is written, and the value
-        // only ever reaches the shipped county list a few lines below.
+        // only ever reaches the shipped county list below.
+        // One line, so the ignore below covers every read of the superglobal.
         // phpcs:ignore WordPress.Security.NonceVerification.Recommended
-        $requested = isset($_GET['county']) ? wp_unslash($_GET['county']) : '';
-        if (!is_string($requested) || $requested === '') {
+        $slug = isset($_GET['county']) && is_string($_GET['county']) ? sanitize_key(wp_unslash($_GET['county'])) : '';
+        if ($slug === '') {
             return null;
         }
 
-        $slug = sanitize_key($requested);
         $summary = $this->data('counties');
         if (!$summary) {
             return null;
