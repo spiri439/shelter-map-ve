@@ -68,11 +68,16 @@ class SMVE_Shelter_Map {
      * @return array|null Entry from data/counties.json.
      */
     private function requested_county() {
-        if (empty($_GET['county']) || !is_string($_GET['county'])) {
+        // No nonce here on purpose: this is a public, read-only filter shared in
+        // links and indexed by search engines. Nothing is written, and the value
+        // only ever reaches the shipped county list a few lines below.
+        // phpcs:ignore WordPress.Security.NonceVerification.Recommended
+        $requested = isset($_GET['county']) ? wp_unslash($_GET['county']) : '';
+        if (!is_string($requested) || $requested === '') {
             return null;
         }
 
-        $slug = sanitize_key(wp_unslash($_GET['county']));
+        $slug = sanitize_key($requested);
         $summary = $this->data('counties');
         if (!$summary) {
             return null;
@@ -135,7 +140,9 @@ class SMVE_Shelter_Map {
             'text'       => array(
                 'loadError'    => __('The map could not be loaded. Please reload the page.', 'shelter-map-ve'),
                 'navigate'     => __('Directions', 'shelter-map-ve'),
+                /* translators: %s: sector number, 1 to 6. */
                 'sector'       => __('Sector %s', 'shelter-map-ve'),
+                /* translators: %s: a formatted distance, e.g. "420 m" or "3.7 km". */
                 'awayFromYou'  => __('%s away from you', 'shelter-map-ve'),
                 'nearest'      => __('Nearest shelter to you', 'shelter-map-ve'),
                 'yourPosition' => __('Your position', 'shelter-map-ve'),
@@ -143,6 +150,7 @@ class SMVE_Shelter_Map {
                 'noPosition'   => __('Could not determine your position. Check that location access is allowed.', 'shelter-map-ve'),
                 'noResults'    => __('No shelter matches your search.', 'shelter-map-ve'),
                 'oneResult'    => __('1 shelter', 'shelter-map-ve'),
+                /* translators: %s: number of shelters matching the current filter. */
                 'nResults'     => __('%s shelters', 'shelter-map-ve'),
                 'allCounties'  => __('All counties', 'shelter-map-ve'),
                 'allSectors'   => __('All sectors', 'shelter-map-ve'),

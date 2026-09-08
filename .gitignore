@@ -7,5 +7,6 @@ build/boundaries/
 # The packaged plugin goes on releases, not into git
 dist/
 
+reports/
 __pycache__/
 *.pyc
