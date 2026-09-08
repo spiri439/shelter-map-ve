@@ -2,13 +2,13 @@
 Contributors: nextdoorentertainment
 Tags: map, leaflet, openstreetmap, civil protection, shelters
 Requires at least: 5.8
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
-Interactive map of Romania's civil protection shelters, with county and sector filtering, text search and nearest-shelter lookup. Leaflet and OpenStreetMap, no API key.
+Romania's 4,538 civil protection shelters on a clustered Leaflet map. County filters, search, nearest-shelter lookup. No API key.
 
 == Description ==
 
